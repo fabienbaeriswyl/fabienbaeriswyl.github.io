@@ -9,6 +9,9 @@ author_profile: true
 <style>body {text-align: justify}</style>
 
 ### Conférences et colloques passés
+- [Séminaire Hawkes](https://sites.google.com/site/charlottedionblanc/home/resarch/emergence-hawkes) - Sorbonne Université, 15 septembre 2024: Présentation 
+- [Statistics and Applied Probability CUSO Summer School 2024](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=7108) - Anzère, 1-4 septembre 2024: Participant
+- [Mathematics, Statistics, and Geometry of Extreme Events in High Dimensions](https://www.mfo.de/occasion/2434/www_view) - MFO Oberwolfach, 18-23 août 2024: Participant 
 - [Journées de Probabilités 2024](https://indico.math.cnrs.fr/event/11353/overview) - Institut de mathématiques de Bordeaux, Bordeaux, 10-14 juin 2024: Présentation
 - [Rencontre des Jeunes Statisticien.ne.s 2024](https://rjs2024.sciencesconf.org) - Porquerolles, 31 mars - 4 avril 2024: Présentation
 - [Ecole d'hiver 2024 de la CUSO de Statistique et Probabilités Appliquées](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=7109) - Les Diablerets, 4-7 février 2024: Participant
