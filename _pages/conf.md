@@ -9,6 +9,7 @@ author_profile: true
 <style>body {text-align: justify}</style>
 
 ### Conférences et colloques passés
+- [Congrès des Jeunes Chercheur.e.s en Mathématiques Appliquées](https://cjc-ma2024.sciencesconf.org) - ENS Lyon, 28-30 octobre 2024: Présentation
 - [Séminaire Hawkes](https://sites.google.com/site/charlottedionblanc/home/resarch/emergence-hawkes) - Sorbonne Université, 15 septembre 2024: Présentation 
 - [Statistics and Applied Probability CUSO Summer School 2024](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=7108) - Anzère, 1-4 septembre 2024: Participant
 - [Mathematics, Statistics, and Geometry of Extreme Events in High Dimensions](https://www.mfo.de/occasion/2434/www_view) - MFO Oberwolfach, 18-23 août 2024: Participant 
