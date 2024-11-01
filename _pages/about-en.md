@@ -10,7 +10,7 @@ author_profile: true
 
 ### Administrative duties and academic volunteering 
 
-- I served as a reviewer for: [Journal of Mathematical Analysis and Applications](https://www.sciencedirect.com/journal/journal-of-mathematical-analysis-and-applications),[Applied Probability Trust](https://www.cambridge.org/core/societies/applied-probability-trust), [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/)
+- I served as a reviewer for: [Journal of Mathematical Analysis and Applications](https://www.sciencedirect.com/journal/journal-of-mathematical-analysis-and-applications), [Applied Probability Trust](https://www.cambridge.org/core/societies/applied-probability-trust), [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/)
 - [HEC Faculty Council, University of Lausanne](https://www.unil.ch/hec/fr/home/contact/conseil-de-faculte.html) - October 2023 - today: representative of intermediate body (PhD candidates, Postdocs and Senior Lecturers) 
 - [Seminar of the Operations Department](https://do-seminar-unil.github.io) - June 2021 - today: in charge of the seminar for the applied probability and statistics side, with [Valérie Chavez-Demoulin](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1081431&LanCode=8)
 - [CUSO Doctoral School in Statistics and Applied Probability](https://statistique.cuso.ch/accueil) - September 2021 - today: representative of the PhD students to the Doctoral School committee 
