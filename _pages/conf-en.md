@@ -8,7 +8,11 @@ author_profile: true
 [:fr: Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/conf/)
 <style>body {text-align: justify}</style>
 
-### Past conferences and workshops  
+### Past conferences and workshops
+- [Statistics and Applied Probability CUSO Winter School 2025](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=7632) - Les Diablerets, 2-5 February 2025: Participant 
+- [(Not So) Informal Probability Seminar](https://mathematik.univie.ac.at/forschung/biomathematik-dynamische-systeme-finanzmathematik-und-wahrscheinlichkeitsrechnung/stochastik-und-finanzmathematik/not-so-informal-probability-seminar/) - Vienna, 16 January 2025: Presentation
+- [Seminar for Probability Theory - PMF, University of Zagreb](https://www.pmf.unizg.hr/math/znanost/seminar_za_teoriju_vjerojatnosti) - PMF, Zagreb, 9 January 2025: Presentation
+- [VALPRED 5](https://wintenberger.fr/VALPRED.html) - Centre CNRS, Aussois, 16-19 December 2024: Presentation
 - [Congrès des Jeunes Chercheur.e.s en Mathématiques Appliquées](https://cjc-ma2024.sciencesconf.org) - ENS Lyon, 28-30 October 2024: Presentation
 - [Séminaire Hawkes](https://sites.google.com/site/charlottedionblanc/home/resarch/emergence-hawkes) - Sorbonne Université, 15 September 2024: Presentation 
 - [Statistics and Applied Probability CUSO Summer School 2024](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=7108) - Anzère, 1-4 September 2024: Participant
