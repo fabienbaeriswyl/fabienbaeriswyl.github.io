@@ -9,9 +9,13 @@ author_profile: true
 <style>body {text-align: justify}</style>
 
 ### Conférences et colloques passés
+- [Ecole d'hiver 2025 de la CUSO de Statistique et Probabilités Appliquées](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=7632) - Les Diablerets, 2-5 février 2025: Participant 
+- [(Not So) Informal Probability Seminar](https://mathematik.univie.ac.at/forschung/biomathematik-dynamische-systeme-finanzmathematik-und-wahrscheinlichkeitsrechnung/stochastik-und-finanzmathematik/not-so-informal-probability-seminar/) - Vienne, 16 janvier 2025: Présentation
+- [Seminar for Probability Theory - PMF, Université de Zagreb](https://www.pmf.unizg.hr/math/znanost/seminar_za_teoriju_vjerojatnosti) - PMF, Zagreb, 9 janvier 2025: Présentation
+- [VALPRED 5](https://wintenberger.fr/VALPRED.html) - Centre CNRS, Aussois, 16-19 décembre 2024: Présentation
 - [Congrès des Jeunes Chercheur.e.s en Mathématiques Appliquées](https://cjc-ma2024.sciencesconf.org) - ENS Lyon, 28-30 octobre 2024: Présentation
 - [Séminaire Hawkes](https://sites.google.com/site/charlottedionblanc/home/resarch/emergence-hawkes) - Sorbonne Université, 15 septembre 2024: Présentation 
-- [Statistics and Applied Probability CUSO Summer School 2024](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=7108) - Anzère, 1-4 septembre 2024: Participant
+- [Ecole d'été 2024 de la CUSO de Statistique et Probabilités Appliquées](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=7108) - Anzère, 1-4 septembre 2024: Participant
 - [Mathematics, Statistics, and Geometry of Extreme Events in High Dimensions](https://www.mfo.de/occasion/2434/www_view) - MFO Oberwolfach, 18-23 août 2024: Participant 
 - [Journées de Probabilités 2024](https://indico.math.cnrs.fr/event/11353/overview) - Institut de mathématiques de Bordeaux, Bordeaux, 10-14 juin 2024: Présentation
 - [Rencontre des Jeunes Statisticien.ne.s 2024](https://rjs2024.sciencesconf.org) - Porquerolles, 31 mars - 4 avril 2024: Présentation
