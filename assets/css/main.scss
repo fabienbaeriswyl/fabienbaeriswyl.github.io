@@ -7,3 +7,39 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Custom two-column layout for bilingual paragraphs */
+
+.dual-lang-columns {
+  display: flex;
+  gap: 2rem;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+
+.dual-lang-columns .fr,
+.dual-lang-columns .en {
+  flex: 1;
+  font-size: 1rem;
+}
+
+/* Slightly shrink font when content area is narrower */
+@media (max-width: 1024px) {
+  .dual-lang-columns .fr,
+  .dual-lang-columns .en {
+    font-size: 0.9rem;
+  }
+}
+
+/* Stack vertically if space is too tight */
+@media (max-width: 800px) {
+  .dual-lang-columns {
+    flex-wrap: wrap;
+  }
+
+  .dual-lang-columns .fr,
+  .dual-lang-columns .en {
+    flex: 100%;
+    font-size: 1rem;
+  }
+}
