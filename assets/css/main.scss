@@ -11,53 +11,36 @@ search: false
 
 .dual-lang-columns {
   display: flex;
-  flex-direction: column;
-  gap: 1.2rem;
-}
-
-.dual-lang-columns .lang-row {
-  display: flex;
   gap: 2rem;
   justify-content: space-between;
   flex-wrap: nowrap;
 }
 
-.lang-row .fr,
-.lang-row .en {
+/* Each column takes equal space */
+.dual-lang-columns .fr,
+.dual-lang-columns .en {
   flex: 1;
   font-size: 1rem;
 }
 
-/* Shrink font slightly if content width gets tight */
-@media (max-width: 1024px) {
-  .lang-row .fr,
-  .lang-row .en {
-    font-size: 0.9rem;
-  }
-}
-
-/* Stack vertically on narrow screens */
+/* On small screens, stack French above English */
 @media (max-width: 800px) {
-  .dual-lang-columns .lang-row {
+  .dual-lang-columns {
     flex-wrap: wrap;
   }
 
-  .lang-row .fr,
-  .lang-row .en {
+  .dual-lang-columns .fr,
+  .dual-lang-columns .en {
     flex: 100%;
-    font-size: 1rem;
   }
 }
 
-/* Tighten spacing on headings and paragraphs inside bilingual layout */
+/* Optional: tighten spacing */
 .dual-lang-columns h2,
-.dual-lang-columns h3 {
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
-}
-
+.dual-lang-columns h3,
 .dual-lang-columns p {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
 }
+
 
