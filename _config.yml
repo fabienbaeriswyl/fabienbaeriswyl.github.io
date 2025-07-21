@@ -107,7 +107,7 @@ author:
   name             : "Fabien Baeriswyl"
   avatar           : "/assets/images/fb.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Chercheur postdoctoral / Postdoctoral researcher @ TU Wien"
-  location         : "Vienne, Autriche / Wien, Österreich"
+  location         : "Wien, Österreich"
   email            :
   links:
     - label: "Email (Sorbonne Université)"
