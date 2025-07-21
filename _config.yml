@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Page personnelle"
+title                    : "F.B."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Fabien Baeriswyl"
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Fabien Baeriswyl"
   avatar           : "/assets/images/fb.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Bienvenue sur ma page personnelle! Welcome to my personal page!"
-  location         : "Lausanne & Paris"
+  bio              : "Chercheur postdoctoral / Postdoctoral researcher"
+  location         : "Vienne, Autriche / Wien, Österreich"
   email            :
   links:
     - label: "Email (Sorbonne Université)"
@@ -119,6 +119,9 @@ author:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.com/citations?user=xSfL1WQAAAAJ&hl=fr&oi=ao"
+    - label: "HAL"
+      icon: "hal-icon"  # This is a placeholder we’ll hook into
+      url: "https://hal.science/search/index/q/*/authIdHal_i/1247670"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
