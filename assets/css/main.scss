@@ -8,38 +8,45 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* Custom two-column layout for bilingual paragraphs */
+/* Bilingual layout: row-by-row alignment */
 
 .dual-lang-columns {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.dual-lang-columns .lang-row {
   display: flex;
   gap: 2rem;
   justify-content: space-between;
   flex-wrap: nowrap;
 }
 
-.dual-lang-columns .fr,
-.dual-lang-columns .en {
+.lang-row .fr,
+.lang-row .en {
   flex: 1;
   font-size: 1rem;
 }
 
-/* Slightly shrink font when content area is narrower */
+/* Shrink font slightly on medium-width screens */
 @media (max-width: 1024px) {
-  .dual-lang-columns .fr,
-  .dual-lang-columns .en {
+  .lang-row .fr,
+  .lang-row .en {
     font-size: 0.9rem;
   }
 }
 
-/* Stack vertically if space is too tight */
+/* Stack vertically on small screens (phones, narrow tablets) */
 @media (max-width: 800px) {
-  .dual-lang-columns {
+  .dual-lang-columns .lang-row {
     flex-wrap: wrap;
   }
 
-  .dual-lang-columns .fr,
-  .dual-lang-columns .en {
+  .lang-row .fr,
+  .lang-row .en {
     flex: 100%;
     font-size: 1rem;
   }
 }
+
