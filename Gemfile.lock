@@ -144,3 +144,5 @@ DEPENDENCIES
 
 BUNDLED WITH
    2.4.10
+
+gem "nokogiri", ">= 1.18.9"
