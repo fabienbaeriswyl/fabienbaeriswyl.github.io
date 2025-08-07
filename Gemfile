@@ -17,6 +17,7 @@ gem "jekyll"
 gem "minimal-mistakes-jekyll"
 gem "jemoji"
 gem "jekyll-sitemap"
+gem "nokogiri", ">= 1.18.9"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
