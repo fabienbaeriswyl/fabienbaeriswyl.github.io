@@ -110,12 +110,9 @@ author:
   location         : "Wien, Österreich"
   email            :
   links:
-    - label: "Email (Sorbonne Université)"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:fabien.baeriswyl@sorbonne-universite.fr"
-    - label: "Email (Université de Lausanne)"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:fabien.baeriswyl@unil.ch"
+      url: "mailto:fabien[dot]baeriswyl[at]tuwien(dot)ac[dot]at"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.com/citations?user=xSfL1WQAAAAJ&hl=fr&oi=ao"
