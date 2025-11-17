@@ -10,8 +10,8 @@ author_profile: true
 
 ### Administrative duties and academic volunteering 
 
-- I served as a reviewer for: [Journal of Mathematical Analysis and Applications](https://www.sciencedirect.com/journal/journal-of-mathematical-analysis-and-applications), [Applied Probability Trust](https://www.cambridge.org/core/societies/applied-probability-trust), [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/)
-- [HEC Faculty Council, University of Lausanne](https://www.unil.ch/hec/fr/home/contact/conseil-de-faculte.html) - October 2023 - JUly 2025: representative of intermediate body (PhD candidates, Postdocs and Senior Lecturers) 
+- I served as a reviewer for: [Memoirs of the AMS](https://www.ams.org/publications/ebooks/memoirs), [Journal of Mathematical Analysis and Applications](https://www.sciencedirect.com/journal/journal-of-mathematical-analysis-and-applications), [Applied Probability Trust](https://www.cambridge.org/core/societies/applied-probability-trust), [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/)
+- [HEC Faculty Council, University of Lausanne](https://www.unil.ch/hec/fr/home/contact/conseil-de-faculte.html) - October 2023 - July 2025: representative of intermediate body (PhD candidates, Postdocs and Senior Lecturers) 
 - [Seminar of the Operations Department](https://do-seminar-unil.github.io) - June 2021 - JUne 2025: in charge of the seminar for the applied probability and statistics side, with [Valérie Chavez-Demoulin](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1081431&LanCode=8)
 - [CUSO Doctoral School in Statistics and Applied Probability](https://statistique.cuso.ch/accueil) - September 2021 - February 2025: representative of the PhD students to the Doctoral School committee 
 - [Association du Corps Intermédiaire et des doctorant.e.s de l'Université de Lausanne](https://wp.unil.ch/acidul/) - December 2020 - December 2021: president and member of the committee
