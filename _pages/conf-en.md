@@ -8,7 +8,11 @@ author_profile: true
 [:fr: Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/conf/)
 <style>body {text-align: justify}</style>
 
-### Past conferences and workshops
+### Upcoming conferences, seminars and workshops
+- [Random walks: applications and interactions](https://conferences.cirm-math.fr/3451.html) - CIRM, Marseille, 19-23 January 2025: Participant
+
+### Past conferences, seminars and workshops
+- [Random Geometry, Graphs and Extremes](https://web.math.pmf.unizg.hr/rgge/) - IUC Dubrovnik, 27-31 October 2025: Presentation
 - [Statistics and Applied Probability CUSO Winter School 2025](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=7632) - Les Diablerets, 2-5 February 2025: Participant 
 - [(Not So) Informal Probability Seminar](https://mathematik.univie.ac.at/forschung/biomathematik-dynamische-systeme-finanzmathematik-und-wahrscheinlichkeitsrechnung/stochastik-und-finanzmathematik/not-so-informal-probability-seminar/) - Vienna, 16 January 2025: Presentation
 - [Seminar for Probability Theory - PMF, University of Zagreb](https://www.pmf.unizg.hr/math/znanost/seminar_za_teoriju_vjerojatnosti) - PMF, Zagreb, 9 January 2025: Presentation
