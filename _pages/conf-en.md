@@ -11,7 +11,7 @@ author_profile: true
 ### Upcoming conferences, seminars and workshops
 - [Random walks: applications and interactions](https://conferences.cirm-math.fr/3451.html) - CIRM, Marseille, 19-23 January 2025: Participant
 - [MathNet Seminar](https://team.inria.fr/mathnet/past-seminars/) - Inria, Paris, 26 January 2025: Presentation 
-- [Applied Mathematics Seminar, Laboratoire de Mathématiques Jean Leray]([https://www.ams.org/publications/ebooks/memoirs](https://www.math.sciences.univ-nantes.fr/exposes/993627)) - Nantes, 27 January 2025: Presentation  
+- [Applied Mathematics Seminar, Laboratoire de Mathématiques Jean Leray]([https://www.ams.org/publications/ebooks/memoirs](https://www.math.sciences.univ-nantes.fr/exposes/993627) ) - Nantes, 27 January 2025: Presentation  
 
 ### Past conferences, seminars and workshops
 - [Random Geometry, Graphs and Extremes](https://web.math.pmf.unizg.hr/rgge/) - IUC Dubrovnik, 27-31 October 2025: Presentation
