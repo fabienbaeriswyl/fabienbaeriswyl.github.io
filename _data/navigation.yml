@@ -6,12 +6,12 @@ main:
     url: /conf/
   - title: "A propos/About"
     url: /apropos/
-  - title: "Collègues, liens, divers"
-    url: /collegues/
   - title: "CV 🇫🇷" 
     url: /assets/CV-2025-FR.pdf
   - title: "CV 🇬🇧" 
     url: /assets/CV-2025-EN.pdf
+  - title: "Collègues, liens, divers"
+    url: /collegues/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
