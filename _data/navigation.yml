@@ -8,6 +8,10 @@ main:
     url: /apropos/
   - title: "Collègues, liens, divers"
     url: /collegues/
+  - title: "CV 🇫🇷" 
+    url: /assets/files/CV-2025-FR.pdf
+  - title: "CV 🇬🇧" 
+    url: /assets/files/CV-2025-EN.pdf
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
