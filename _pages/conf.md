@@ -9,11 +9,12 @@ author_profile: true
 <style>body {text-align: justify}</style>
 
 ### Conférences, séminaires et colloques à venir
-- [Marches aléatoires: applications et interactions](https://conferences.cirm-math.fr/3451.html) - CIRM, Marseille, 19-23 janvier 2025: Participant
-- [Séminaire MathNet](https://team.inria.fr/mathnet/past-seminars/) - Inria, Paris, 26 janvier 2025: Présentation 
-- [Séminaire de Mathématiques appliquées, Laboratoire de Mathématiques Jean Leray](https://www.math.sciences.univ-nantes.fr/exposes/993627) - Nantes, 27 janvier 2025: Présentation  
+- [Point Processes and their Applications 2026](https://ppa-2026.sciencesconf.org) - Lille, 24 au 27 mars 2026: Présentation
+- [54e Ecole d'été de Probabilités (Saint-Flour) 2026](https://lmbp.uca.fr/stflour/) - Saint-Flour, 29 juin au 11 juillet 2026: Participant
 
 ### Conférences, séminaires et colloques passés
+- [Séminaire de Mathématiques appliquées, Laboratoire de Mathématiques Jean Leray](https://www.math.sciences.univ-nantes.fr/exposes/993627) - Nantes, 27 janvier 2026: Présentation  
+- [Séminaire MathNet](https://team.inria.fr/mathnet/past-seminars/) - Inria, Paris, 26 janvier 2026: Présentation 
 - [Random Geometry, Graphs and Extremes](https://web.math.pmf.unizg.hr/rgge/) - IUC Dubrovnik, 27-31 octobre 2025: Présentation
 - [Ecole d'hiver 2025 de la CUSO de Statistique et Probabilités Appliquées](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=7632) - Les Diablerets, 2-5 février 2025: Participant 
 - [(Not So) Informal Probability Seminar](https://mathematik.univie.ac.at/forschung/biomathematik-dynamische-systeme-finanzmathematik-und-wahrscheinlichkeitsrechnung/stochastik-und-finanzmathematik/not-so-informal-probability-seminar/) - Vienne, 16 janvier 2025: Présentation
