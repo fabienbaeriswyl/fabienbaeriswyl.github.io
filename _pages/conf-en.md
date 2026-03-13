@@ -13,8 +13,8 @@ author_profile: true
 - [54th Probability Summer School (Saint-Flour) 2026](https://lmbp.uca.fr/stflour/) - St-Flour, 29th of June to 11th of July 2026: Participant
 
 ### Past conferences, seminars and workshops
-- [Applied Mathematics Seminar, Laboratoire de Mathématiques Jean Leray](https://www.math.sciences.univ-nantes.fr/exposes/993627) - Nantes, 27 January 2025: Presentation  
-- [MathNet Seminar](https://team.inria.fr/mathnet/past-seminars/) - Inria, Paris, 26 January 2025: Presentation 
+- [Applied Mathematics Seminar, Laboratoire de Mathématiques Jean Leray](https://www.math.sciences.univ-nantes.fr/exposes/993627) - Nantes, 27 January 2026: Presentation  
+- [MathNet Seminar](https://team.inria.fr/mathnet/past-seminars/) - Inria, Paris, 26 January 2026: Presentation 
 - [Random Geometry, Graphs and Extremes](https://web.math.pmf.unizg.hr/rgge/) - IUC Dubrovnik, 27-31 October 2025: Presentation
 - [Statistics and Applied Probability CUSO Winter School 2025](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=7632) - Les Diablerets, 2-5 February 2025: Participant 
 - [(Not So) Informal Probability Seminar](https://mathematik.univie.ac.at/forschung/biomathematik-dynamische-systeme-finanzmathematik-und-wahrscheinlichkeitsrechnung/stochastik-und-finanzmathematik/not-so-informal-probability-seminar/) - Vienna, 16 January 2025: Presentation
