@@ -10,7 +10,7 @@ author_profile: true
 
 ### Upcoming conferences, seminars and workshops
 - [Point Processes and their Applications 2026](https://ppa-2026.sciencesconf.org) - Lille, 24--27 of March, 2026: Presentation
-- [Ecole de Probabilités de St-Flour 2026](https://lmbp.uca.fr/stflour/) - St-Flour, 29th of June to 11th of July 2026: Participant
+- [54th Probability Summer School (Saint-Flour) 2026](https://lmbp.uca.fr/stflour/) - St-Flour, 29th of June to 11th of July 2026: Participant
 
 ### Past conferences, seminars and workshops
 - [Applied Mathematics Seminar, Laboratoire de Mathématiques Jean Leray](https://www.math.sciences.univ-nantes.fr/exposes/993627) - Nantes, 27 January 2025: Presentation  
