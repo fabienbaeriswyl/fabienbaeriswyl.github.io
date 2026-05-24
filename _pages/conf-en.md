@@ -14,6 +14,7 @@ translation_url: /conf/
 - [54th Probability Summer School (Saint-Flour) 2026](https://lmbp.uca.fr/stflour/) - St-Flour, 29 June--11 July 2026
 - [Stochastic Geometry Days 2026](https://geosto26.sciencesconf.org) - Rouen, 21--25 September 2026
 
+
 ### Past conferences, seminars and workshops
 - [Applied Mathematics Seminar, Laboratoire de Mathématiques Jean Leray](https://www.math.sciences.univ-nantes.fr/exposes/993627) - Nantes, 27 January 2026  
 - [MathNet Seminar](https://team.inria.fr/mathnet/past-seminars/) - Inria, Paris, 26 January 2026 
