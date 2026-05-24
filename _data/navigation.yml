@@ -5,11 +5,11 @@ main_fr:
     url: /publi/
   - title: "Communications"
     url: /conf/
-  - title: "À propos"
+  - title: "Enseignement"
     url: /apropos/
   - title: "CV"
     url: /assets/CV-2025-FR.pdf
-  - title: "Collègues et liens"
+  - title: "Divers"
     url: /collegues/
 
 main_en:
@@ -17,11 +17,11 @@ main_en:
     url: /en/publications/
   - title: "Talks"
     url: /en/talks/
-  - title: "About"
+  - title: "Teaching"
     url: /en/about/
   - title: "CV"
     url: /assets/CV-2025-EN.pdf
-  - title: "Colleagues and links"
+  - title: "Misc"
     url: /en/colleagues/
 
 # fallback for pages without lang
@@ -30,7 +30,7 @@ main:
     url: /publi/
   - title: "Communications"
     url: /conf/
-  - title: "À propos"
+  - title: "Enseignement"
     url: /apropos/
   - title: "CV"
     url: /assets/CV-2025-FR.pdf
