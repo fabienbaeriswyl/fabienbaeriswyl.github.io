@@ -3,9 +3,11 @@ layout: home
 title: "Ami.e.s, collègues et liens"
 permalink: /collegues/
 author_profile: true
+lang: fr
+ref: "colleagues"
+translation_url: /en/colleagues/
 ---
 
-[:uk: Click here for the page in English](https://fabienbaeriswyl.fr/colleagues)
 <style>body {text-align: justify}</style>
 
 ### Ami.e.s et collègues

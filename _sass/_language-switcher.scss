@@ -1,0 +1,13 @@
+.lang-switcher a {
+  border: 1px solid mix(#000, #fff, 18%);
+  border-radius: 999px;
+  padding: 0.18rem 0.55rem !important;
+  margin-left: 0.25rem;
+  font-weight: 700;
+  font-size: 0.72em;
+  line-height: 1.2;
+}
+
+.lang-switcher a:hover {
+  text-decoration: none;
+}

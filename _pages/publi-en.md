@@ -1,11 +1,14 @@
---- 
+---
+ 
 layout: home
 title: "Publications and research interests"
-permalink: /publi-en/
 author_profile: true
+permalink: /en/publications/
+lang: en
+ref: "publications"
+translation_url: /publi/
 ---
 
-[:fr: Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/publi)
 <style>body {text-align: justify}</style>
 
 ### Research interests 

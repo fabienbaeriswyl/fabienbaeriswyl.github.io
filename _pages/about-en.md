@@ -1,11 +1,13 @@
 ---
 layout: home
 title: "About me" 
-permalink: /about/
 author_profile: true
+permalink: /en/about/
+lang: en
+ref: "about"
+translation_url: /apropos/
 ---
 
-[:fr: Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/apropos)
 <style>body {text-align: justify}</style>
 
 ### Administrative duties and academic volunteering 

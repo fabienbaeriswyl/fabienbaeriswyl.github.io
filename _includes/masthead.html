@@ -12,11 +12,20 @@
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
         <ul class="visible-links">
-          {%- for link in site.data.navigation.main -%}
-            <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-            </li>
-          {%- endfor -%}
+          {%- assign current_lang = page.lang | default: site.default_lang | default: "fr" -%}
+      {%- if current_lang == "en" -%}
+        {%- assign nav_links = site.data.navigation.main_en -%}
+      {%- else -%}
+        {%- assign nav_links = site.data.navigation.main_fr -%}
+      {%- endif -%}
+
+      {%- for link in nav_links -%}
+        <li class="masthead__menu-item">
+          <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+        </li>
+      {%- endfor -%}
+
+      {% include language-switcher.html %}
         </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">

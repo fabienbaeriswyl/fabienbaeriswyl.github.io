@@ -3,9 +3,11 @@ layout: home
 title: "Conférences et colloques" 
 permalink: /conf/
 author_profile: true
+lang: fr
+ref: "talks"
+translation_url: /en/talks/
 ---
 
-[:uk: Click here for the page in English](https://fabienbaeriswyl.fr/conf-en)
 <style>body {text-align: justify}</style>
 
 ### Conférences, séminaires et colloques à venir

@@ -3,9 +3,11 @@ layout: home
 title: "A propos de moi" 
 permalink: /apropos/
 author_profile: true
+lang: fr
+ref: "about"
+translation_url: /en/about/
 ---
 
-[:uk: Click here for the page in English](https://fabienbaeriswyl.fr/about)
 <style>body {text-align: justify}</style>
 
 ### Charges administratives et bénévolat académique 

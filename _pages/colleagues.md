@@ -1,11 +1,14 @@
---- 
+---
+ 
 layout: home
 title: "Colleagues, friends and links" 
-permalink: /colleagues/
 author_profile: true
+permalink: /en/colleagues/
+lang: en
+ref: "colleagues"
+translation_url: /collegues/
 ---
 
-[:fr: Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/collegues)
 <style>body {text-align: justify}</style>
 
 ### Colleagues and friends 

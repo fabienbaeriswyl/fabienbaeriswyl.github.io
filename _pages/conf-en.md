@@ -1,11 +1,13 @@
 ---
 layout: home
 title: "Conferences and workshops" 
-permalink: /conf-en/
 author_profile: true
+permalink: /en/talks/
+lang: en
+ref: "talks"
+translation_url: /conf/
 ---
 
-[:fr: Cliquez ici pour la page en français](https://fabienbaeriswyl.fr/conf/)
 <style>body {text-align: justify}</style>
 
 ### Upcoming conferences, seminars and workshops

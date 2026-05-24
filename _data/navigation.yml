@@ -1,18 +1,38 @@
-# main links
+# main links, selected in _includes/masthead.html according to page.lang
+
+main_fr:
+  - title: "Publications"
+    url: /publi/
+  - title: "Communications"
+    url: /conf/
+  - title: "À propos"
+    url: /apropos/
+  - title: "CV"
+    url: /assets/CV-2025-FR.pdf
+  - title: "Collègues et liens"
+    url: /collegues/
+
+main_en:
+  - title: "Publications"
+    url: /en/publications/
+  - title: "Talks"
+    url: /en/talks/
+  - title: "About"
+    url: /en/about/
+  - title: "CV"
+    url: /assets/CV-2025-EN.pdf
+  - title: "Colleagues and links"
+    url: /en/colleagues/
+
+# fallback for pages without lang
 main:
   - title: "Publications"
     url: /publi/
   - title: "Communications"
     url: /conf/
-  - title: "A propos/About"
+  - title: "À propos"
     url: /apropos/
-  - title: "CV 🇫🇷" 
+  - title: "CV"
     url: /assets/CV-2025-FR.pdf
-  - title: "CV 🇬🇧" 
-    url: /assets/CV-2025-EN.pdf
-  - title: "Collègues, liens, divers"
-    url: /collegues/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "EN"
+    url: /en/
