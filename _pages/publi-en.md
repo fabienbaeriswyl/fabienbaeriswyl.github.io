@@ -20,7 +20,7 @@ translation_url: /publi/
 
 ### Publications and ongoing projects
 - _Local large deviations of multitype branching processes_ work in progress with Benedikt Stufler.
-- _Palm versions of marked branching processes_ work in progress with Hrvoje Planinić.
+- _Palm versions and tail configurations of marked Hawkes processes_ work in progress with Hrvoje Planinić.
 - [_Poisson cluster point processes: asymptotic properties and applications_](https://theses.hal.science/tel-05172664), HAL version of my PhD thesis, defended on July 2, 2025. 
 - _Heavy-Tailed in Earthquakes Measurements_, work in progress with [Valérie Chavez-Demoulin](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1081431&LanCode=37). 
 - [_Sample-Path Large Deviations for Functionals of Poisson Cluster Processes_](https://hal.science/hal-05044673), HAL preprint, submitted to Applied Probability Trust in April 2025, with [Olivier Wintenberger](http://wintenberger.fr). 
