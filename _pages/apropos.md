@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "A propos de moi" 
+title: "Enseignement" 
 permalink: /apropos/
 author_profile: true
 lang: fr
@@ -9,14 +9,6 @@ translation_url: /en/about/
 ---
 
 <style>body {text-align: justify}</style>
-
-### Charges administratives et bénévolat académique 
-
-- J'ai servi de réviseur pour: [Memoirs of the AMS](https://www.ams.org/publications/ebooks/memoirs), [Journal of Mathematical Analysis and Applications](https://www.sciencedirect.com/journal/journal-of-mathematical-analysis-and-applications), [Applied Probability Trust](https://www.cambridge.org/core/societies/applied-probability-trust), [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/)
-- [Conseil de Faculté des HEC, Université de Lausanne](https://www.unil.ch/hec/fr/home/contact/conseil-de-faculte.html) - octobre 2023--juillet 2025: représentant du corps intermédiaire 
-- [Séminaire du Département des Opérations](https://do-seminar-unil.github.io) - juin 2021--juin 2025: en charge du séminaire pour la partie statistique et probabilités appliquées, avec [Valérie Chavez-Demoulin](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1081431&LanCode=8)
-- [Ecole doctorale en Statistique et Probabilités Appliquées (CUSO)](https://statistique.cuso.ch/accueil) - septembre 2021--février 2025: représentant des doctorant.e.s de l'Université de Lausanne
-- [Association du Corps Intermédiaire et des doctorant.e.s de l'Université de Lausanne](https://wp.unil.ch/acidul/) - décembre 2020--décembre 2021: président et membre du comité
 
 ### Enseignements de cours
 
