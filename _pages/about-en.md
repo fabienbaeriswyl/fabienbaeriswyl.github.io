@@ -18,6 +18,10 @@ translation_url: /apropos/
 - [CUSO Doctoral School in Statistics and Applied Probability](https://statistique.cuso.ch/accueil) - September 2021 - February 2025: representative of the PhD students to the Doctoral School committee 
 - [Association du Corps Intermédiaire et des doctorant.e.s de l'Université de Lausanne](https://wp.unil.ch/acidul/) - December 2020 - December 2021: president and member of the committee
 
+### Teaching duties
+
+- [Analysis II für Informatik](https://www.dmg.tuwien.ac.at/stufler/tec/ss26ana2/) - March 2026--July 2026: TU Wien, BSc Computer Science 
+
 ### Teaching Assistant duties
 
 I am and have been Teaching Assistant for the following courses over the last few years: 
