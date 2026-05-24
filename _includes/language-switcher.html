@@ -1,20 +1,14 @@
-{%- comment -%}
-Language switcher for paired French/English pages.
-Priority:
-1. explicit translation_url in the page front matter;
-2. automatic lookup via same ref + opposite lang among site.pages;
-3. fallback to / or /en/.
-{%- endcomment -%}
-
 {%- assign current_lang = page.lang | default: site.default_lang | default: "fr" -%}
 
 {%- if current_lang == "en" -%}
   {%- assign target_lang = "fr" -%}
   {%- assign target_label = "FR" -%}
+  {%- assign target_flag = "🇫🇷" -%}
   {%- assign fallback_url = "/" -%}
 {%- else -%}
   {%- assign target_lang = "en" -%}
   {%- assign target_label = "EN" -%}
+  {%- assign target_flag = "🇬🇧" -%}
   {%- assign fallback_url = "/en/" -%}
 {%- endif -%}
 
@@ -35,7 +29,13 @@ Priority:
 {%- endunless -%}
 
 <li class="masthead__menu-item lang-switcher">
-  <a href="{{ target_url | relative_url }}" hreflang="{{ target_lang }}" aria-label="Switch language">
-    {{ target_label }}
+  <a
+    href="{{ target_url | relative_url }}"
+    hreflang="{{ target_lang }}"
+    aria-label="Switch language"
+    class="lang-switcher__link"
+  >
+    <span class="lang-switcher__flag" aria-hidden="true">{{ target_flag }}</span>
+    <span class="lang-switcher__label">{{ target_label }}</span>
   </a>
 </li>

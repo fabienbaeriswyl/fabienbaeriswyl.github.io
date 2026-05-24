@@ -291,3 +291,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Bilingual masthead labels
+
+# Bilingual masthead labels
+
+# Bilingual masthead labels
+masthead_title_fr: "F. Baeriswyl"
+masthead_title_en: "F. Baeriswyl"

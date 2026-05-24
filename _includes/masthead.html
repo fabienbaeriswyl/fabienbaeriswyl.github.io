@@ -5,10 +5,20 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         {% unless logo_path == empty %}
-          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
+          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{%- assign current_lang = page.lang | default: site.default_lang | default: "fr" -%}
+{%- if current_lang == "en" -%}
+  {{ site.masthead_title_en | default: site.title }}
+{%- else -%}
+  {{ site.masthead_title_fr | default: site.masthead_title | default: site.title }}
+{%- endif -%}"></a>
         {% endunless %}
         <a class="site-title" href="{{ '/' | relative_url }}">
-          {{ site.masthead_title | default: site.title }}
+          {%- assign current_lang = page.lang | default: site.default_lang | default: "fr" -%}
+{%- if current_lang == "en" -%}
+  {{ site.masthead_title_en | default: site.title }}
+{%- else -%}
+  {{ site.masthead_title_fr | default: site.masthead_title | default: site.title }}
+{%- endif -%}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
         <ul class="visible-links">
