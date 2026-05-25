@@ -410,3 +410,167 @@ hr {
   background: #f8fbff !important;
   text-decoration: none !important;
 }
+
+
+/* ============================================================
+   TRUE TWO-MODE RESPONSIVE LAYOUT
+
+   < 1100px  : stacked layout, avatar hidden
+   >= 1100px : controlled two-column layout, avatar visible
+
+   This overrides Minimal Mistakes' intermediate float layout.
+   ============================================================ */
+
+/* Mode 1: small screens */
+@media screen and (max-width: 1099px) {
+  body #main {
+    display: block !important;
+    max-width: 100% !important;
+    padding-left: 1.25rem !important;
+    padding-right: 1.25rem !important;
+  }
+
+  body #main .sidebar,
+  body #main .sidebar.sticky {
+    display: block !important;
+    float: none !important;
+    clear: both !important;
+    position: static !important;
+    width: 100% !important;
+    max-width: 900px !important;
+    margin: 0 auto 1.5rem auto !important;
+    padding: 0 !important;
+    opacity: 1 !important;
+  }
+
+  body #main .author__avatar {
+    display: none !important;
+  }
+
+  body #main .author__content,
+  body #main .author__urls-wrapper {
+    text-align: center !important;
+    max-width: 900px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  body #main .page,
+  body #main .archive {
+    display: block !important;
+    float: none !important;
+    clear: both !important;
+    width: 100% !important;
+    max-width: 900px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
+
+/* Mode 2: all non-small screens */
+@media screen and (min-width: 1100px) {
+  body #main {
+    display: grid !important;
+    grid-template-columns: minmax(150px, 190px) minmax(0, 900px) !important;
+    column-gap: 2rem !important;
+    align-items: start !important;
+    justify-content: center !important;
+
+    max-width: 1180px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 1.25rem !important;
+    padding-right: 1.25rem !important;
+  }
+
+  body #main .sidebar,
+  body #main .sidebar.sticky {
+    grid-column: 1 !important;
+    display: block !important;
+    float: none !important;
+    clear: none !important;
+    position: static !important;
+    width: auto !important;
+    max-width: 190px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    opacity: 1 !important;
+  }
+
+  body #main .author__avatar {
+    display: block !important;
+    text-align: left !important;
+    margin-bottom: 0.75rem !important;
+  }
+
+  body #main .author__avatar img {
+    display: block !important;
+    width: 135px !important;
+    max-width: 135px !important;
+    height: auto !important;
+    margin: 0 !important;
+  }
+
+  body #main .author__content,
+  body #main .author__urls-wrapper {
+    text-align: left !important;
+    max-width: 190px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  body #main .author__bio {
+    font-size: 0.86rem !important;
+    line-height: 1.35 !important;
+  }
+
+  body #main .page,
+  body #main .archive {
+    grid-column: 2 !important;
+    display: block !important;
+    float: none !important;
+    clear: none !important;
+    width: 100% !important;
+    max-width: 900px !important;
+    margin: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  body #main .page__content {
+    width: 100% !important;
+    max-width: 900px !important;
+    margin: 0 !important;
+  }
+}
+
+
+/* Safety: prevent avatar/sidebar overlap in two-column mode */
+@media screen and (min-width: 1100px) {
+  body #main {
+    grid-template-columns: 170px minmax(0, 1fr) !important;
+    column-gap: 2.25rem !important;
+    overflow: visible !important;
+  }
+
+  body #main .sidebar,
+  body #main .sidebar.sticky {
+    min-width: 0 !important;
+    overflow: hidden !important;
+  }
+
+  body #main .author__avatar img {
+    width: 130px !important;
+    max-width: 130px !important;
+  }
+
+  body #main .page,
+  body #main .archive,
+  body #main .page__content {
+    min-width: 0 !important;
+    overflow-wrap: break-word !important;
+  }
+}
+
