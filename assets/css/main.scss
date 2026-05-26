@@ -43,7 +43,41 @@ search: false
   margin-bottom: 0.5rem;
 }
 
+@font-face {
+  font-family: "Latin Modern Sans";
+  src: url("/assets/fonts/latin-modern/lmsans10-regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
 
+@font-face {
+  font-family: "Latin Modern Sans";
+  src: url("/assets/fonts/latin-modern/lmsans10-bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Latin Modern Sans";
+  src: url("/assets/fonts/latin-modern/lmsans10-oblique.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+body {
+  font-family: "Latin Modern Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.archive__item-title,
+.masthead__menu,
+.site-title {
+  font-family: "Latin Modern Sans", "Helvetica Neue", Arial, sans-serif;
+}
 
 @import "language-switcher";
 
