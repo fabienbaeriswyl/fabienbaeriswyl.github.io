@@ -1,11 +1,11 @@
 ---
 layout: home
 title: "Enseignement" 
-permalink: /apropos/
+permalink: /enseignement/
 author_profile: true
 lang: fr
 ref: "about"
-translation_url: /en/about/
+translation_url: /en/teaching/
 ---
 
 <style>body {text-align: justify}</style>

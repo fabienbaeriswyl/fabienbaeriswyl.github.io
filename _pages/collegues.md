@@ -1,11 +1,11 @@
 ---
 layout: home
 title: "Divers"
-permalink: /collegues/
+permalink: /divers/
 author_profile: true
 lang: fr
 ref: "colleagues"
-translation_url: /en/colleagues/
+translation_url: /en/misc/
 ---
 
 <style>body {text-align: justify}</style>

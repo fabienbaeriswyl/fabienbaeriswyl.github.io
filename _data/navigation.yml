@@ -6,11 +6,11 @@ main_fr:
   - title: "Communications"
     url: /conf/
   - title: "Enseignement"
-    url: /apropos/
+    url: /enseignement/
   - title: "CV"
     url: /assets/CV-2025-FR.pdf
   - title: "Divers"
-    url: /collegues/
+    url: /divers/
 
 main_en:
   - title: "Publications"
@@ -18,11 +18,11 @@ main_en:
   - title: "Talks"
     url: /en/talks/
   - title: "Teaching"
-    url: /en/about/
+    url: /en/teaching/
   - title: "CV"
     url: /assets/CV-2025-EN.pdf
   - title: "Misc"
-    url: /en/colleagues/
+    url: /en/misc/
 
 # fallback for pages without lang
 main:
@@ -31,7 +31,7 @@ main:
   - title: "Communications"
     url: /conf/
   - title: "Enseignement"
-    url: /apropos/
+    url: /enseignement/
   - title: "CV"
     url: /assets/CV-2025-FR.pdf
   - title: "EN"

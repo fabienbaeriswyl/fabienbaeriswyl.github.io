@@ -3,10 +3,10 @@
 layout: home
 title: "Misc" 
 author_profile: true
-permalink: /en/colleagues/
+permalink: /en/misc/
 lang: en
 ref: "colleagues"
-translation_url: /collegues/
+translation_url: /divers/
 ---
 
 <style>body {text-align: justify}</style>
