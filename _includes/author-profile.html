@@ -15,9 +15,19 @@
     <h3 class="author__name p-name" itemprop="name">
       <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a>
     </h3>
-    {% if author.bio %}
+    {%- assign current_lang = page.lang | default: site.default_lang | default: "fr" -%}
+    {%- assign author_bio = author.bio -%}
+    {%- if current_lang == "en" and author.bio_en -%}
+      {%- assign author_bio = author.bio_en -%}
+    {%- elsif current_lang == "de" and author.bio_de -%}
+      {%- assign author_bio = author.bio_de -%}
+    {%- elsif current_lang == "fr" and author.bio_fr -%}
+      {%- assign author_bio = author.bio_fr -%}
+    {%- endif -%}
+
+    {% if author_bio %}
       <div class="author__bio p-note" itemprop="description">
-        {{ author.bio | markdownify }}
+        {{ author_bio | markdownify }}
       </div>
     {% endif %}
   </div>

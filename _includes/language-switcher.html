@@ -1,41 +1,44 @@
 {%- assign current_lang = page.lang | default: site.default_lang | default: "fr" -%}
-
-{%- if current_lang == "en" -%}
-  {%- assign target_lang = "fr" -%}
-  {%- assign target_label = "FR" -%}
-  {%- assign target_flag = "🇫🇷" -%}
-  {%- assign fallback_url = "/" -%}
-{%- else -%}
-  {%- assign target_lang = "en" -%}
-  {%- assign target_label = "EN" -%}
-  {%- assign target_flag = "🇬🇧" -%}
-  {%- assign fallback_url = "/en/" -%}
-{%- endif -%}
-
-{%- assign target_url = nil -%}
-
-{%- if page.translation_url -%}
-  {%- assign target_url = page.translation_url -%}
-{%- elsif page.ref -%}
-  {%- assign translations = site.pages | where: "ref", page.ref -%}
-  {%- assign target_page = translations | where: "lang", target_lang | first -%}
-  {%- if target_page -%}
-    {%- assign target_url = target_page.url -%}
-  {%- endif -%}
-{%- endif -%}
-
-{%- unless target_url -%}
-  {%- assign target_url = fallback_url -%}
-{%- endunless -%}
+{%- assign languages = "fr,en,de" | split: "," -%}
 
 <li class="masthead__menu-item lang-switcher">
-  <a
-    href="{{ target_url | relative_url }}"
-    hreflang="{{ target_lang }}"
-    aria-label="Switch language"
-    class="lang-switcher__link"
-  >
-    <span class="lang-switcher__flag" aria-hidden="true">{{ target_flag }}</span>
-    <span class="lang-switcher__label">{{ target_label }}</span>
-  </a>
+  {%- for lang in languages -%}
+    {%- if lang == "fr" -%}
+      {%- assign label = "FR" -%}
+      {%- assign flag = "🇫🇷" -%}
+      {%- assign fallback_url = "/" -%}
+    {%- elsif lang == "en" -%}
+      {%- assign label = "EN" -%}
+      {%- assign flag = "🇬🇧" -%}
+      {%- assign fallback_url = "/en/" -%}
+    {%- elsif lang == "de" -%}
+      {%- assign label = "DE" -%}
+      {%- assign flag = "🇦🇹" -%}
+      {%- assign fallback_url = "/de/" -%}
+    {%- endif -%}
+
+    {%- assign target_url = fallback_url -%}
+
+    {%- if lang == current_lang -%}
+      {%- assign target_url = page.url -%}
+    {%- elsif page.ref -%}
+      {%- assign translations = site.pages | where: "ref", page.ref -%}
+      {%- assign target_page = translations | where: "lang", lang | first -%}
+      {%- if target_page -%}
+        {%- assign target_url = target_page.url -%}
+      {%- endif -%}
+    {%- endif -%}
+
+    <a
+      href="{{ target_url | relative_url }}"
+      hreflang="{{ lang }}"
+      aria-label="Switch language to {{ label }}"
+      class="lang-switcher__link{% if lang == current_lang %} is-active{% endif %}"
+      {% if lang == current_lang %}aria-current="page"{% endif %}
+    >
+      <span class="lang-switcher__flag" aria-hidden="true">{{ flag }}</span>
+      <span class="lang-switcher__label">{{ label }}</span>
+    </a>
+    {%- unless forloop.last -%}<span class="lang-switcher__separator"> | </span>{%- endunless -%}
+  {%- endfor -%}
 </li>

@@ -24,6 +24,18 @@ main_en:
   - title: "Misc"
     url: /en/misc/
 
+main_de:
+  - title: "Publikationen"
+    url: /de/publikationen/
+  - title: "Vorträge"
+    url: /de/vortraege/
+  - title: "Lehre"
+    url: /de/lehre/
+  - title: "CV"
+    url: /assets/CV-2026-DE.pdf
+  - title: "Verschiedenes"
+    url: /de/verschiedenes/
+
 # fallback for pages without lang
 main:
   - title: "Publications"
