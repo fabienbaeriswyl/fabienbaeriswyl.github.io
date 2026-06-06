@@ -24,4 +24,5 @@ Une liste de liens que je trouve intéressants :
 
 - [Un podcast de Cédric Villani sur France Culture dédié aux grandes révolutions scientifiques](https://www.radiofrance.fr/franceculture/podcasts/les-contes-des-mille-et-une-sciences)
 - [Un podcast France Culture sur la vie d'Alexandre Grothendieck](https://www.radiofrance.fr/franceculture/podcasts/serie-alexandre-grothendieck-legende-rebelle-des-mathematiques)
-- [Une jolie illustration de la métrique J1 de Skorokhod sur le site de Bojan Basrak qui utilise l'Ampelmann](https://web.math.pmf.unizg.hr/~bbasrak/?Contact_%2F_Other_info:Skorohod_metric_J1) 
+- [Une jolie illustration de la métrique J1 de Skorokhod sur le site de Bojan Basrak qui utilise l'Ampelmann](https://web.math.pmf.unizg.hr/~bbasrak/?Contact_%2F_Other_info:Skorohod_metric_J1)
+- [(En allemand) Une interview-portrait d'Edmund Hlawka, un mathématicien autrichien dont la vie et la carrière ont traversé le 20e siècle](https://www.oemg.ac.at/Gespraeche/Portrait_Hlawka.html)
