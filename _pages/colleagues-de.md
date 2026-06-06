@@ -25,4 +25,5 @@ Einige mathematische Links, die ich interessant finde:
 
 - [(auf Französisch) Ein France-Culture-Podcast von Cédric Villani über große wissenschaftliche Abenteuer](https://www.radiofrance.fr/franceculture/podcasts/les-contes-des-mille-et-une-sciences)
 - [(auf Französisch) Ein France-Culture-Podcast über das Leben von Alexandre Grothendieck](https://www.radiofrance.fr/franceculture/podcasts/serie-alexandre-grothendieck-legende-rebelle-des-mathematiques)
-- [Eine schöne Illustration der Skorokhod-J1-Metrik anhand des Ampelmanns auf Bojan Basraks Webseite](https://web.math.pmf.unizg.hr/~bbasrak/?Contact_%2F_Other_info:Skorohod_metric_J1) 
+- [Eine schöne Illustration der Skorokhod-J1-Metrik anhand des Ampelmanns auf Bojan Basraks Webseite](https://web.math.pmf.unizg.hr/~bbasrak/?Contact_%2F_Other_info:Skorohod_metric_J1)
+- [Ein Porträtinterview mit Edmund Hlawka, einem österreichischen Mathematiker, dessen Leben und Karriere das 20. Jahrhundert umspannten](https://www.oemg.ac.at/Gespraeche/Portrait_Hlawka.html)
