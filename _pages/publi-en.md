@@ -22,7 +22,7 @@ translation_url: /publi/
 - _Palm versions and tail configurations of marked Hawkes processes_ work in progress with Hrvoje Planinić.
 - [_Poisson cluster point processes: asymptotic properties and applications_](https://theses.hal.science/tel-05172664), HAL version of my PhD thesis, defended on July 2, 2025. 
 - _Heavy-Tailed in Earthquakes Measurements_, work in progress with [Valérie Chavez-Demoulin](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1081431&LanCode=37). 
-- [_Sample-Path Large Deviations for Functionals of Poisson Cluster Processes_](https://hal.science/hal-05044673), HAL preprint, submitted to Applied Probability Trust in April 2025, with [Olivier Wintenberger](http://wintenberger.fr). 
+- [_Sample-path large deviations for functionals of Poisson cluster processes_](https://hal.science/hal-05044673), HAL preprint, submitted to Applied Probability Trust in April 2025, with [Olivier Wintenberger](http://wintenberger.fr). 
 - [_Tail asymptotics and precise large deviations for some Poisson cluster processes (2025)_](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/abs/tail-asymptotics-and-precise-large-deviations-for-some-poisson-cluster-processes/C31A3129AAA4179A4C8E995E20AE39AF), with [Valérie Chavez-Demoulin](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1081431&LanCode=37) and [Olivier Wintenberger](http://wintenberger.fr), in _Advances in Applied Probability_, 57(1), 204-240.
 
     I am indebted to Céline Lacaux for pointing out some inelegant ways to prove Proposition 5 and 7 with confusing little o's notation. These proofs have been reviewed — [see here](https://fabienbaeriswyl.fr/assets/Correction.pdf)
