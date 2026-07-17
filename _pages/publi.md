@@ -19,8 +19,6 @@ translation_url: /en/publications/
 - Les grandes déviations
 
 ### Publications et projets en cours
-
-- _Local large deviations of multitype branching processes_ travail en cours avec Benedikt Stufler.
 - _Palm versions and tail configurations of marked Hawkes processes_ travail en cours avec Hrvoje Planinić.
 - [_Poisson cluster point processes: asymptotic properties and applications_](https://theses.hal.science/tel-05172664), version HAL de ma thèse, soutenue le 2 juillet 2025.  
 - _Heavy-Tailed in Earthquakes Measurements_, travail en cours avec [Valérie Chavez-Demoulin](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1081431&LanCode=37). 
