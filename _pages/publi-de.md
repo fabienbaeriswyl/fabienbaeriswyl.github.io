@@ -19,7 +19,6 @@ translation_url: /en/publications/
 - Große Abweichungen
 
 ### Publikationen und laufende Projekte
-- _Local large deviations of multitype branching processes_, laufendes Projekt mit Benedikt Stufler.
 - _Palm versions and tail configurations of marked Hawkes processes_, laufendes Projekt mit Hrvoje Planinić.
 - [_Poisson cluster point processes: asymptotic properties and applications_](https://theses.hal.science/tel-05172664), HAL-Version meiner Dissertation, verteidigt am 2. Juli 2025. 
 - _Heavy-Tailed in Earthquakes Measurements_, laufendes Projekt mit [Valérie Chavez-Demoulin](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1081431&LanCode=37). 
