@@ -25,6 +25,6 @@ translation_url: /en/publications/
 - [_Sample-path large deviations for functionals of Poisson cluster processes_](https://hal.science/hal-05044673), HAL-Preprint, eingereicht bei Applied Probability Trust im April 2025, mit [Olivier Wintenberger](http://wintenberger.fr). 
 - [_Tail asymptotics and precise large deviations for some Poisson cluster processes (2025)_](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/abs/tail-asymptotics-and-precise-large-deviations-for-some-poisson-cluster-processes/C31A3129AAA4179A4C8E995E20AE39AF), mit [Valérie Chavez-Demoulin](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1081431&LanCode=37) und [Olivier Wintenberger](http://wintenberger.fr), erschienen in _Advances in Applied Probability_, 57(1), 204-240.
 
-    Ich bin Céline Lacaux dankbar dafür, dass sie auf einige unschöne Beweiswege in den Propositionen 5 und 7 sowie auf verwirrende kleine-o-Notation hingewiesen hat. Diese Beweise wurden überarbeitet — [siehe hier](https://fabienbaeriswyl.fr/assets/Correction.pdf)
+    Ich bin Céline Lacaux dankbar dafür, dass sie auf einige unschöne Beweiswege in den Propositionen 5 und 7 sowie auf verwirrende kleine-o-Notation hingewiesen hat. Diese Beweise wurden überarbeitet — [siehe hier](https://www.fabienbaeriswyl.at/assets/Correction.pdf)
 
 - _Modelling of heatwaves and dependence assessment_ (2020) (Masterarbeit unter der Betreuung von [Johanna Nešlehová](https://www.math.mcgill.ca/neslehova/)) 

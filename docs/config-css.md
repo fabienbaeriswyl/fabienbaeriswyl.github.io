@@ -7,7 +7,7 @@ Dans la zone `Site Settings`, je recommande :
 ```yaml
 locale                   : "fr-FR"
 default_lang             : "fr"
-url                      : "https://www.fabienbaeriswyl.fr"
+url                      : "https://www.fabienbaeriswyl.at"
 baseurl                  : ""
 repository               : "fabienbaeriswyl/fabienbaeriswyl.github.io"
 ```
