@@ -18,6 +18,7 @@ translation_url: /en/talks/
 - [DO Seminar](https://www.unil.ch/events/fr/1786956519479) - Université de Lausanne, 2 octobre 2026
 - [Journées autrichiennes de stochastique (ASD) 2026](https://stochastics-days.at/asd2026/) - ISTA, Klosterneuburg, 28--29 septembre 2026
 - [54e Ecole d'été de Probabilités de Saint-Flour 2026](https://lmbp.uca.fr/stflour/) - Saint-Flour, 29 juin--11 juillet 2026
+- [SFB Discrete Random Structures - Winter Status Workshop](https://sfbrandom.univie.ac.at/events/sfb-winter-status-workshop-2026/) - TU Graz, 9--10 février 2026
 - [Séminaire de Mathématiques appliquées, Laboratoire de Mathématiques Jean Leray](https://www.math.sciences.univ-nantes.fr/exposes/993627) - Nantes, 27 janvier 2026  
 - [Séminaire MathNet](https://team.inria.fr/mathnet/past-seminars/) - Inria, Paris, 26 janvier 2026 
 - [Random Geometry, Graphs and Extremes](https://web.math.pmf.unizg.hr/rgge/) - IUC Dubrovnik, 27--31 octobre 2025
