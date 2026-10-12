@@ -15,6 +15,7 @@ translation_url: /en/talks/
 
 
 ### Vergangene Tagungen, Seminare und Workshops
+- [DO Seminar](https://www.unil.ch/events/fr/1786956519479) - Universität Lausanne, 2. October 2026
 - [Austrian Stochastic Days 2026](https://stochastics-days.at/asd2026/) - ISTA, Klosterneuburg, 28.--29. September 2026
 - [54th Probability Summer School (Saint-Flour) 2026](https://lmbp.uca.fr/stflour/) - Saint-Flour, 29. Juni--11. Juli 2026
 - [Applied Mathematics Seminar, Laboratoire de Mathématiques Jean Leray](https://www.math.sciences.univ-nantes.fr/exposes/993627) - Nantes, 27. Jänner 2026  
