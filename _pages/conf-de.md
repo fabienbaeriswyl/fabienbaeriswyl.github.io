@@ -11,25 +11,26 @@ translation_url: /en/talks/
 <style>body {text-align: justify}</style>
 
 ### Bevorstehende Tagungen, Seminare und Workshops
-- [54th Probability Summer School (Saint-Flour) 2026](https://lmbp.uca.fr/stflour/) - Saint-Flour, 29. Juni--11. Juli 2026
-- [Stochastic Geometry Days 2026](https://geosto26.sciencesconf.org) - Rouen, 21.--25. September 2026
+- [Inn'formal Probability Seminar](https://www.uibk.ac.at/de/mathematik/arbeitsgruppen/stochastics/seminar/) - Universität Innsbruck, 10. November 2026
 
 
 ### Vergangene Tagungen, Seminare und Workshops
+- [Austrian Stochastic Days 2026](https://stochastics-days.at/asd2026/) - ISTA, Klosterneuburg, 28.--29. September 2026
+- [54th Probability Summer School (Saint-Flour) 2026](https://lmbp.uca.fr/stflour/) - Saint-Flour, 29. Juni--11. Juli 2026
 - [Applied Mathematics Seminar, Laboratoire de Mathématiques Jean Leray](https://www.math.sciences.univ-nantes.fr/exposes/993627) - Nantes, 27. Jänner 2026  
 - [MathNet Seminar](https://team.inria.fr/mathnet/past-seminars/) - Inria, Paris, 26. Jänner 2026 
 - [Random Geometry, Graphs and Extremes](https://web.math.pmf.unizg.hr/rgge/) - IUC Dubrovnik, 27.--31. Oktober 2025
 - [Random Structures & Algorithms 2025](https://www.dmg.tuwien.ac.at/rsa2025/) - TU Wien, 4.--8. August 2025
 - [CUSO-Winterschule in Statistik und angewandter Wahrscheinlichkeit 2025](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=7632) - Les Diablerets, 2.--5. Februar 2025 
-- [(Not So) Informal Probability Seminar](https://mathematik.univie.ac.at/forschung/biomathematik-dynamische-systeme-finanzmathematik-und-wahrscheinlichkeitsrechnung/stochastik-und-finanzmathematik/not-so-informal-probability-seminar/) - Wien, 16. Jänner 2025
+- [(Not So) Informal Probability Seminar](https://mathematik.univie.ac.at/forschung/biomathematik-dynamische-systeme-finanzmathematik-und-wahrscheinlichkeitsrechnung/stochastik-und-finanzmathematik/not-so-informal-probability-seminar/) - Universität Wien, 16. Jänner 2025
 - [Seminar for Probability Theory - PMF, University of Zagreb](https://www.pmf.unizg.hr/math/znanost/seminar_za_teoriju_vjerojatnosti) - PMF, Zagreb, 9. Jänner 2025
 - [VALPRED 5](https://wintenberger.fr/VALPRED.html) - Centre CNRS, Aussois, 16.--19. Dezember 2024
 - [Congrès des Jeunes Chercheur.e.s en Mathématiques Appliquées](https://cjc-ma2024.sciencesconf.org) - ENS Lyon, 28.--30. Oktober 2024
 - [Séminaire Hawkes](https://sites.google.com/site/charlottedionblanc/home/resarch/emergence-hawkes) - Sorbonne Université, 15. September 2024 
 - [CUSO-Sommerschule in Statistik und angewandter Wahrscheinlichkeit 2024](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=7108) - Anzère, 1.--4. September 2024
 - [Mathematics, Statistics, and Geometry of Extreme Events in High Dimensions](https://www.mfo.de/occasion/2434/www_view) - MFO Oberwolfach, 18.--23. August 2024 
-- [Journées de Probabilités 2024](https://indico.math.cnrs.fr/event/11353/overview) - Institut de mathématiques de Bordeaux, Bordeaux, 10.--14. Juni 2024
-- [Rencontre des Jeunes Statisticien.ne.s 2024](https://rjs2024.sciencesconf.org) - Porquerolles, 31. März--4. April 2024
+- [Journées de Probabilités 2024](https://indico.math.cnrs.fr/event/11353/overview) - Institut de mathématiques de Bordeaux, 10.--14. Juni 2024
+- [Rencontre des Jeunes Statisticien.ne.s 2024](https://rjs2024.sciencesconf.org) - IGESA, Porquerolles, 31. März--4. April 2024
 - [CUSO-Winterschule in Statistik und angewandter Wahrscheinlichkeit 2024](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=7109) - Les Diablerets, 4.--7. Februar 2024
 - [New Perspectives in the Theory of Extreme Values](https://web.math.pmf.unizg.hr/paagrv/dubrovnik-meeting-2023) - IUC Dubrovnik, 23.--27. Oktober 2023
 - [CUSO-Sommerschule in Statistik und angewandter Wahrscheinlichkeit 2023](https://statistique.cuso.ch/?id=2688&tx_displaycontroller[showUid]=6523) - Saignelégier, 3.--6. September 2023
